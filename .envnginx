@@ -1,4 +1,0 @@
-# nginx
-NGINX_DB_HOST=db:3306
-NGINX_DB_USER=nginx
-NGINX_DB_PASSWORD=nginx
